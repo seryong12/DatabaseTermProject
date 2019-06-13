@@ -1,0 +1,44 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///E:/Xampp/htdocs/htdocs/check/member_out.html
+Subject: 
+Date: Sun, 2 Jun 2019 16:01:31 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--R0M1JFqDlzr7or1x6vBXa0dMIt85bht1De86aRWQ7i----"
+
+
+------MultipartBoundary--R0M1JFqDlzr7or1x6vBXa0dMIt85bht1De86aRWQ7i----
+Content-Type: text/html
+Content-ID: <frame-B98681FF951DE29D078CB1D5FBF377E2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///E:/Xampp/htdocs/htdocs/check/member_out.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"></head><body>
+	<form method=3D"post" action=3D"file:///E:/Xampp/htdocs/htdocs/check/membe=
+r_out_ok.php">
+		<fieldset>
+			<legend>=ED=9A=8C=EC=9B=90=ED=83=88=ED=87=B4</legend>
+			<table>
+				<tbody><tr>
+					<td>=ED=98=84=EC=9E=AC =EB=B9=84=EB=B0=80=EB=B2=88=ED=98=B8</td>
+					<td><input type=3D"password" size=3D"35" name=3D"user_pw_current" plac=
+eholder=3D"=ED=98=84=EC=9E=AC=EB=B9=84=EB=B0=80=EB=B2=88=ED=98=B8"></td>
+				</tr>
+				<tr>
+					<td>=EC=9E=AC=ED=99=95=EC=9D=B8</td>
+					<td><input type=3D"password" size=3D"35" name=3D"user_pw_confirm" plac=
+eholder=3D"=EC=9E=AC=ED=99=95=EC=9D=B8"></td>
+				</tr>
+				<tr>
+					<td>=ED=99=95=EC=9D=B8</td>
+					<td><input type=3D"submit" size=3D"35" name=3D"submit" value=3D"=ED=99=
+=95=EC=9D=B8" placeholder=3D"=ED=99=95=EC=9D=B8"></td>
+				</tr>
+			</tbody></table><table>
+	=09
+=09
+
+</table></fieldset></form></body></html>
+------MultipartBoundary--R0M1JFqDlzr7or1x6vBXa0dMIt85bht1De86aRWQ7i------
